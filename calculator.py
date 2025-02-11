@@ -16,6 +16,8 @@ def calculator():
             print(num1 / num2)
         else:
             print("Cannot divide by 0")
+    elif operation == '%':
+        print(num1 % num2)
     else:
         print("Syntax Error")
         
