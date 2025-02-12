@@ -1,6 +1,6 @@
 def vowel_counter():
     text = input("Type Here: ")
-    vowels = "aeiou"
+    vowels = "aeiouAEIOU"
     
     vowel_count = 0
     
